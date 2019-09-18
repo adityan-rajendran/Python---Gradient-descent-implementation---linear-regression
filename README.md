@@ -1,1 +1,1 @@
-Project: Implementation of Gradient descent algorithm for Linear Regression
+# Project: Implementation of Gradient descent algorithm for Linear Regression and Logistic Regression
